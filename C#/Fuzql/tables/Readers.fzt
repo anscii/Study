@@ -1,0 +1,7 @@
+Name;String;Age;Int32;Rate;Int32;Wage;Int32;Height;Int32
+John;19;5;77;160
+Michael;121;3;90;188
+Jan;22;3;115;165
+Elliot;25;5;134;195
+Ann;22;3;50;165
+Kate;24;5;34;195

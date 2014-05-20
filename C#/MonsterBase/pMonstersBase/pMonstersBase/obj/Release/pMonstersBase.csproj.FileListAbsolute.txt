@@ -1,0 +1,29 @@
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\bin\Release\pMonstersBase.exe
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\bin\Release\pMonstersBase.pdb
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\Window1.baml
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\Window1.g.cs
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\App.g.cs
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\pMonstersBase_MarkupCompile.cache
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\pMonstersBase.g.resources
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\pMonstersBase.Properties.Resources.resources
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\pMonstersBase.csproj.GenerateResource.Cache
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\pMonstersBase.exe
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Release\pMonstersBase.pdb
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.exe
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.pdb
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\bin\Release\pMonstersBase.exe
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\bin\Release\pMonstersBase.pdb
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\Window1.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\Window1.g.cs
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\App.g.cs
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase_MarkupCompile.cache
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.g.resources
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.Properties.Resources.resources
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.csproj.GenerateResource.Cache
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\LeftStretchStyle.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\LeftTopStyle.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Release\App.baml
+D:\ВИУ5-61 Акентьева\!Homework\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.exe
+D:\ВИУ5-61 Акентьева\!Homework\pMonstersBase\pMonstersBase\obj\Release\pMonstersBase.pdb

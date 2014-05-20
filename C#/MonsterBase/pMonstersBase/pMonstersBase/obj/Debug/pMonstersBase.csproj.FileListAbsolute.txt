@@ -1,0 +1,27 @@
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\Window1.baml
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\Window1.g.cs
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\App.g.cs
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\pMonstersBase_MarkupCompile.cache
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\pMonstersBase.g.resources
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\pMonstersBase.Properties.Resources.resources
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\pMonstersBase.csproj.GenerateResource.Cache
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\bin\Debug\pMonstersBase.exe
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\bin\Debug\pMonstersBase.pdb
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\pMonstersBase.exe
+C:\Users\nt\AppData\Local\Temporary Projects\pMonstersBase\obj\Debug\pMonstersBase.pdb
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\bin\Debug\pMonstersBase.exe
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\bin\Debug\pMonstersBase.pdb
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\LeftStretchStyle.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\LeftTopStyle.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\App.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\App.g.cs
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\pMonstersBase_MarkupCompile.cache
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\pMonstersBase.g.resources
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\pMonstersBase.Properties.Resources.resources
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\pMonstersBase.csproj.GenerateResource.Cache
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\pMonstersBase.exe
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\pMonstersBase.pdb
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\MonsterValley.baml
+C:\Users\nt\Projects\pMonstersBase\pMonstersBase\obj\Debug\MonsterValley.g.cs
